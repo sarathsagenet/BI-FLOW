@@ -1,0 +1,33 @@
+.feature-box {
+  padding: 20px;
+  margin: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Optional: adds shadow for a subtle 3D effect */
+  background-color: #BFEA7C; /* Light grey background, adjust as needed */
+  border-radius: 5px; /* Rounds the corners of the boxes */
+  border: 1px solid #ccc; /* Adds a border around the box */
+  width: auto; /* Ensures the box width is determined by its content up to its container's limit */
+  max-width: 100%; /* Ensures the box does not overflow its container */
+}
+
+
+.feature-box-2 {
+  padding: 20px;
+  margin: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Optional: adds shadow for a subtle 3D effect */
+  background-color: #FFCF81; /* Light grey background, adjust as needed */
+  border-radius: 5px; /* Rounds the corners of the boxes */
+  border: 1px solid #ccc; /* Adds a border around the box */
+  width: auto; /* Ensures the box width is determined by its content up to its container's limit */
+  max-width: 100%; /* Ensures the box does not overflow its container */
+}
+
+body {
+  margin: 0; /* Removes default margin */
+  height: 100vh; /* Ensure the gradient covers the whole page */
+  background-image: linear-gradient(to bottom, #add8e6, #0000ff);
+  /* Adjust the colors as needed to change the gradient effect */
+}
+
+.space-between-lists {
+  margin-bottom: 20px; /* Adjust the value as needed */
+}

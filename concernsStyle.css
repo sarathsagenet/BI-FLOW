@@ -1,0 +1,10 @@
+.space-between-lists {
+  margin-bottom: 20px; /* Adjust the value as needed */
+}
+
+body {
+  /* Gradient from #ffbe04 to white */
+  background: linear-gradient(to right, #ffffff, #ffbe04);
+  height: 100vh; /* Makes sure the gradient covers the whole page */
+  margin: 0; /* Removes default margin */
+}
