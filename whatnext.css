@@ -31,3 +31,13 @@ body {
 .space-between-lists {
   margin-bottom: 20px; /* Adjust the value as needed */
 }
+
+a .fa-file-pdf-o {
+  color: #D32F2F; /* PDF icon color */
+  font-size: 24px; /* Icon size */
+  margin-right: 10px;
+}
+
+a:hover .fa-file-pdf-o {
+  color: #9A0007; /* Darker shade on hover */
+}
